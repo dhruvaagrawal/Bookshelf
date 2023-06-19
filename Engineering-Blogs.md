@@ -1,4 +1,4 @@
-# A list of all Engineering Blogs that I find interesting
+# A list of all engineering blogs that I find interesting
 
 1. [Swiggy Bytes](https://bytes.swiggy.com/)
 2. [Uber Engineering](https://www.uber.com/en-IN/blog/engineering/)
