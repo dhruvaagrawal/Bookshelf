@@ -10,3 +10,4 @@
 8. [Yelp Engineering](https://engineeringblog.yelp.com/)
 9. [Twitter Engineering](https://blog.twitter.com/engineering/en_us)
 10. [Discord Engineering & Developers](https://discord.com/category/engineering)
+11. [Tailscale Blog](https://tailscale.com/blog/)
